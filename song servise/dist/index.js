@@ -3,9 +3,9 @@ import songRoutes from "./route.js";
 import redis from "redis";
 import cors from "cors";
 export const redisClient = redis.createClient({
-    password: "sVMbBbJzlykyVabFeKOaSegJlClZppzm",
+    password: "add your password",
     socket: {
-        host: "redis-18107.c52.us-east-1-4.ec2.redns.redis-cloud.com",
+        host: "add your",
         port: 18107,
     },
 });
