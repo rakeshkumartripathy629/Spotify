@@ -21,9 +21,9 @@ redisClient
 
 // Cloudinary config
 cloudinary.v2.config({
-  cloud_name: "dp42r9yhm",
-  api_key: "371542574218931",
-  api_secret: "aU6H-wwqoqlxaC790tD_6qkS2fQ",
+  cloud_name: "",
+  api_key: "",
+  api_secret: "",
 });
 
 const app = express();
